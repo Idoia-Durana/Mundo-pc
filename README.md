@@ -16,10 +16,10 @@
 
 2.Raton: Hereda de DispositivoEntrada y representa un ratón, con un contador estático que asigna un identificador único a cada instancia de esta clase. Además, tiene un método toString que devuelve una descripción del ratón.
 
-3. Teclado: Al igual que el ratón, hereda de DispositivoEntrada y representa un teclado, también con un contador estático para asignar un identificador único. La descripción del teclado también se obtiene mediante el método toString.
+3.Teclado: Al igual que el ratón, hereda de DispositivoEntrada y representa un teclado, también con un contador estático para asignar un identificador único. La descripción del teclado también se obtiene mediante el método toString.
 
-4. Monitor: Esta clase no hereda de DispositivoEntrada, sino que se trata de una clase independiente. Representa un monitor con atributos como marca y tamaño. También tiene un contador estático para generar identificadores únicos para cada monitor.
+4.Monitor: Esta clase no hereda de DispositivoEntrada, sino que se trata de una clase independiente. Representa un monitor con atributos como marca y tamaño. También tiene un contador estático para generar identificadores únicos para cada monitor.
 
-5. Ordenador: Representa un ordenador que está compuesto por un ratón, un teclado y un monitor. La relación entre estos componentes es de agregación, ya que un ordenador contiene instancias de las otras clases, pero no las hereda. La clase Ordenador también tiene un identificador único generado de manera estática.
+5.Ordenador: Representa un ordenador que está compuesto por un ratón, un teclado y un monitor. La relación entre estos componentes es de agregación, ya que un ordenador contiene instancias de las otras clases, pero no las hereda. La clase Ordenador también tiene un identificador único generado de manera estática.
 
-6. Orden: Representa una colección de ordenadores. Un objeto Orden puede contener varios ordenadores, y tiene métodos para agregar ordenadores y mostrar detalles de todos los ordenadores en la orden.
+6.Orden: Representa una colección de ordenadores. Un objeto Orden puede contener varios ordenadores, y tiene métodos para agregar ordenadores y mostrar detalles de todos los ordenadores en la orden.
