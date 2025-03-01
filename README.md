@@ -14,7 +14,7 @@
 ## Clases principales:
 1.DispositivoEntrada: Es la clase base que representa los dispositivos de entrada comunes como ratón y teclado. Contiene atributos como tipoEntrada y marca, que son compartidos por sus subclases.
 
-2. Raton: Hereda de DispositivoEntrada y representa un ratón, con un contador estático que asigna un identificador único a cada instancia de esta clase. Además, tiene un método toString que devuelve una descripción del ratón.
+2.Raton: Hereda de DispositivoEntrada y representa un ratón, con un contador estático que asigna un identificador único a cada instancia de esta clase. Además, tiene un método toString que devuelve una descripción del ratón.
 
 3. Teclado: Al igual que el ratón, hereda de DispositivoEntrada y representa un teclado, también con un contador estático para asignar un identificador único. La descripción del teclado también se obtiene mediante el método toString.
 
