@@ -4,11 +4,11 @@
 
 
 ## Funcionalidades principales:
-### Herencia: Utiliza herencia para definir clases específicas de dispositivos de entrada como ratón y teclado.
-### Contadores estáticos: Cada clase (como Raton, Teclado, Monitor) usa un contador estático para asignar identificadores únicos a cada objeto creado.
-### Agregación: La clase Ordenador utiliza agregación para incluir instancias de Raton, Teclado y Monitor.
-### Método toString: Cada clase tiene su propio método toString para mostrar una representación legible de sus objetos.
-### Gestión de órdenes: La clase Orden maneja múltiples ordenadores, permitiendo agregar ordenadores y mostrar una lista de los mismos.
+- Herencia: Utiliza herencia para definir clases específicas de dispositivos de entrada como ratón y teclado.
+- Contadores estáticos: Cada clase (como Raton, Teclado, Monitor) usa un contador estático para asignar identificadores únicos a cada objeto creado.
+- Agregación: La clase Ordenador utiliza agregación para incluir instancias de Raton, Teclado y Monitor.
+- Método toString: Cada clase tiene su propio método toString para mostrar una representación legible de sus objetos.
+- Gestión de órdenes: La clase Orden maneja múltiples ordenadores, permitiendo agregar ordenadores y mostrar una lista de los mismos.
 
 
 ## Clases principales:
