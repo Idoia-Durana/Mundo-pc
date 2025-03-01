@@ -1,6 +1,6 @@
 # MUNDO PC
 
--- Este proyecto simula la gestión y administración de dispositivos de entrada y ordenadores. El sistema está compuesto por varios objetos que interactúan entre sí utilizando conceptos de herencia, agregación y contadores estáticos.
+Este proyecto simula la gestión y administración de dispositivos de entrada y ordenadores. El sistema está compuesto por varios objetos que interactúan entre sí utilizando conceptos de herencia, agregación y contadores estáticos.
 
 
 ## Funcionalidades principales:
